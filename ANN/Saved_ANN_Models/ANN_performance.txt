@@ -1,0 +1,6 @@
+Red Wine:
+Test Accuracy: 61.25%
+White Wine:
+Test Accuracy: 56.12%
+Combined Model:
+Test Accuracy: 56.23%
